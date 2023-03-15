@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Stores</string>
+
+    <string name="arg_id" translatable="false">key_id</string>
+
+    <string name="dialog_delete_tittle">Delete store?</string>
+    <string name="dialog_delete_confirm">Delete</string>
+    <string name="dialog_delete_cancel">Cancel</string>
+    <string name="dialog_options_tittle">What would you like to do?</string>
+
+    <string name="description_img_photo">Store image</string>
+    <string name="description_store_add">Create store</string>
+
+    <string name="edit_store_title_edit">Edit store</string>
+    <string name="edit_store_message_update_success">Updated store</string>
+    <string name="edit_store_message_save_success">Added store</string>
+    <string name="edit_store_title_add">Create store</string>
+
+    <string name="hint_name">Store name</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_website">Website URL</string>
+    <string name="hint_photo_url">Image URL</string>
+
+    <string name="helper_required">Required</string>
+    <string name="helper_invalid_phone">The phone number is invalid</string>
+
+    <string name="menu_save">Save</string>
+
+    <string name="main_error_no_website">The store has no website</string>
+    <string name="main_error_no_resolve">No compatible app found</string>
+
+    <string name="options_item_call">Call</string>
+    <string name="options_item_website">Go to website</string>
+    <string name="dialog_exit_title">Exit this screen?</string>
+    <string name="dialog_exit_message">Unsaved changes will be lost.n</string>
+    <string name="dialog_exit_ok">Exit</string>
+</resources>

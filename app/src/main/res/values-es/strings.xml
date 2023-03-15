@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tiendas</string>
+
+    <string name="dialog_delete_tittle">¿Eliminar tienda?</string>
+    <string name="dialog_delete_confirm">Eliminar</string>
+    <string name="dialog_delete_cancel">Cancelar</string>
+    <string name="dialog_options_tittle">¿Que desea hacer?</string>
+
+    <string name="description_img_photo">Imagen de la tienda</string>
+    <string name="description_store_add">Crear tienda</string>
+
+    <string name="edit_store_title_edit">Editar tienda</string>
+    <string name="edit_store_message_update_success">Tienda actualizada</string>
+    <string name="edit_store_message_save_success">Tienda agregada</string>
+    <string name="edit_store_title_add">Crear tienda</string>
+
+    <string name="hint_name">Nombre de la tienda</string>
+    <string name="hint_phone">Teléfono</string>
+    <string name="hint_website">url del sitio web</string>
+    <string name="hint_photo_url">url de la imagen</string>
+
+    <string name="helper_required">Requerido</string>
+    <string name="helper_invalid_phone">El número de teléfono no es valido</string>
+
+    <string name="menu_save">Guardar</string>
+
+    <string name="main_error_no_website">La tienda no tiene sitio web</string>
+    <string name="main_error_no_resolve">No se encontró app compatible</string>
+
+    <string name="options_item_call">Llamar</string>
+    <string name="options_item_website">Ir al sitio web</string>
+    <string name="dialog_exit_title">Salir de esta pantalla?</string>
+    <string name="dialog_exit_message">Los cambios sin guardar se perderan</string>
+    <string name="dialog_exit_ok">salir</string>
+</resources>
